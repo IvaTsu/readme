@@ -24,7 +24,7 @@ _For more examples and usage, please refer to the [Wiki](https://github.com/you/
 
 ## Release History
 
-See [CHANGELOG](https://github.com/you/your-project/CHANGELOG.md) for more information.
+See [CHANGELOG](CHANGELOG.md) for more information.
 
 ## Meta
 
