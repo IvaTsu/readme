@@ -1,6 +1,6 @@
 ![Logo of the project](https://picsum.photos/900/300)
 
-# The Project Name &middot; [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/you/your-project/blob/master/LICENSE) &middot; [![Product release](https://img.shields.io/badge/release-0.0.1-orange.svg?style=flat-square)](CHANGELOG.md)
+# The Project Name &middot; [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE) &middot; [![Product release](https://img.shields.io/badge/release-0.0.1-orange.svg?style=flat-square)](CHANGELOG.md)
 
 > Several words about the project.
 
