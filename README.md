@@ -32,6 +32,10 @@ _The contributors:_
 
 - Ivan Tsud &middot; [@JStr00per](https://twitter.com/JStr00per) &middot; ivts@tuta.io &middot; [ivatsu](https://github.com/ivatsu)
 
+## Contributing
+
+See [CONTRIBUTING](CONTRIBUTING.md) for more information.
+
 ## Built With
 
 - [Tool](https://tool.org)
