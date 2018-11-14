@@ -44,7 +44,7 @@ _The contributors:_
 
 ## Licensing
 
-Distributed under the MIT license. See [LICENSE](https://github.com/you/your-project/blob/master/LICENSE) for more information.
+Distributed under the MIT license. See [LICENSE](LICENSE) for more information.
 
 ## Acknowledgments
 
