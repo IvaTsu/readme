@@ -1,3 +1,5 @@
+# CONTRIBUTING
+
 - We welcome pull requests from anyone! Please follow these steps to contribute:
 
   - Find an issue that needs assistance by searching for the `#help-wanted` tag.
