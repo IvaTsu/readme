@@ -50,7 +50,7 @@ See [CONTRIBUTING](CONTRIBUTING.md) for more information.
 
 ## Licensing
 
-Distributed under the MIT license. See [LICENSE](LICENSE) for more information.
+Distributed under the MIT license. See [LICENSE](LICENSE.md) for more information.
 
 ## Acknowledgments
 
