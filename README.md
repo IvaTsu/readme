@@ -22,7 +22,7 @@ A quick introduction of the minimal setup you need to get a project up & running
 
 A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
 
-_For more examples and usage, please refer to the [Wiki](https://github.com/you/your-project/wiki)._
+_For more examples and usage, please refer to the [Wiki](wiki.md)._
 
 ## Release History
 
